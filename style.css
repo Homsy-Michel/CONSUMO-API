@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cae0e2;
+  min-height: 100vh;
+}
+
+.row {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+header {
+  text-align: center;
+}
+
+p {
+  font-size: 20pt;
+  text-align: center;
+}
+
+.danger {
+  background-color: brown;
+  color: aliceblue;
+}
+
+.safe {
+  background-color:#228b22;
+  color: aliceblue;
+}
+
+.dolar {
+  width: 300px;
+  position: relative;
+  float: left;
+  background-color: rgb(29, 57, 221);
+  color: #fff;
+}
+.euro {
+  width: 300px;
+  position: relative;
+  float: left;
+}
+
+.gbp {
+  width: 300px;
+  position: relative;
+  float: left;
+  background-color: rgb(29, 57, 221);
+  color: #fff;
+}
